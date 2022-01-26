@@ -1,6 +1,23 @@
-### Hi there 👋
-Fresh graduate with a 2:1 games development degree, I am looking for opportunities as software or games developer. My main programming language is C++ that I have used for the past 3 years both during my degree and with extra-curricular activities like the role I covered at team DIANA for a year, although I have a basic experience of JavaScript as well.
-I love programming, no matter the industry as long as the project has a vision and can have a positive impact in people's lives. I love working with a team that can communicate well and coordinate their work but I don't mind having my own workload that I can handle and manage depending on each task's priority. I am open to both in-office and remote positions, commuting isn't an issue. I have an interest in esports, sports, games and artificial intelligence and would love to get the chance to work in any of those industries. 
-If you have an opportunity that you think I might be a good fit for, send me an email at nicola.zara@outlook.it
+### Hi there 👋, my name is Nicola and I love coding.
+#### Check out my profile!
+![Check out my profile!](https://i.ibb.co/KrGDr2Y/banner.png)
 
-[![Nicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzara001)](https://github.com/anuraghazra/github-readme-stats)
+I am a fresh graduate in Games Development, I love coding and working on interesting and meaningful projects. I have different passions like esports, games, sports and AI.
+
+Skills: C++, JavaScript, Unreal Engine, Qt, Artificial Intelligence, Machine Learning
+
+- 🔭 I’m currently working on perfecting my craft with C++ and Games, trying to outmatch myself everyday! 
+- 🌱 I’m currently learning Qt and design that I can pair with my C++ backend skills 
+- 📫 How to reach me: you can write me an email at nicola.zara@outlook.it 
+- 😄 Pronouns: He/Him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nzara001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicola-zara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/nzara001)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nzara001&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nzara001)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nzara001)  
+
+![Profile views](https://gpvc.arturio.dev/nzara001)  
